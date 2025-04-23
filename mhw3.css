@@ -162,6 +162,12 @@ body{
     border-radius: 4px;
 }
 
+#most-wanted .big-card{
+    width: 1000px;
+    height: auto;
+    border-radius: 4px;
+}
+
 #holder{
     position: relative;
 }
